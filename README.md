@@ -249,21 +249,6 @@ YOLOv8 Money Model
 * 온디바이스 최적화(TFLite, 양자화) 검토
 
 
-## Repository Structure
-
-```text
-sound-wallet/
-├── README.md
-├── app/                  # Android app
-├── web/                  # Django web
-├── model/                # YOLOv8 model code / weights info
-├── data/                 # sample data or data guide
-├── docs/                 # 발표자료, 설계 문서
-├── images/               # README용 이미지
-└── notebooks/            # 학습/실험 노트북
-```
-
----
 
 ## Lessons Learned
 
