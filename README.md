@@ -248,17 +248,6 @@ YOLOv8 Money Model
 * 훼손 화폐 및 다양한 촬영 환경 데이터 추가
 * 온디바이스 최적화(TFLite, 양자화) 검토
 
----
-
-## Demo
-
-* App / Web 기반 데모 구현
-* 화폐 인식 결과 화면 출력
-* 음성 안내 기능 동작
-
-> 추후 데모 GIF, 시연 영상, 앱 화면 캡처를 추가하면 README 완성도가 크게 올라갑니다.
-
----
 
 ## Repository Structure
 
@@ -299,14 +288,3 @@ sound-wallet/
 
 Intel AI 인재과정 프로젝트
 
----
-
-## License
-
-This project is for **portfolio / educational purposes**.
-Please check dataset and model asset licenses separately before redistribution.
-
-```
-
-다음엔 내가 `README용 대표 이미지 + 배지 + 목차 포함 버전`으로도 바로 붙여넣게 만들어줄게.
-```
