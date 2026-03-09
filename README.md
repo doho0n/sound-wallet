@@ -18,7 +18,6 @@
 - **음성 중심 UI**
 - **오프라인 사용 가능**
 - **전맹 / 고령자 사용자까지 고려한 접근성 설계**
-<img width="949" height="379" alt="image" src="https://github.com/user-attachments/assets/bf50e950-a5e0-45ea-b4e1-dca3113c6091" />
 
 
 이 프로젝트는 단순한 객체 탐지를 넘어,  
@@ -168,6 +167,7 @@ YOLOv8 Money Model
 * Google Colab
 * Spyder
 * Visual Studio Code
+<img width="994" height="435" alt="image" src="https://github.com/user-attachments/assets/dc96ede9-ceda-47f7-8288-8da528e76cdb" />
 
 ---
 
@@ -181,6 +181,8 @@ YOLOv8 Money Model
 프로젝트에서는 실제 결제 상황과 유사한 다중 화폐 배치를 포함해
 지폐와 동전이 함께 등장하는 환경에서도 인식 가능하도록 데이터를 구성했습니다.
 
+<img width="949" height="379" alt="image" src="https://github.com/user-attachments/assets/b93bc3fa-5f3f-40b0-acee-b0f5ee8738a8" />
+
 ---
 
 ## Performance
@@ -190,6 +192,7 @@ YOLOv8 Money Model
 * **Recall: 0.98+**
 * **mAP50: 0.99+**
 * **cls_loss: 6.0 → 1.0 이하 안정 수렴**
+<img width="936" height="301" alt="image" src="https://github.com/user-attachments/assets/a6f160b0-08b6-4528-8d8c-5cc6888e754c" />
 
 ### Interpretation
 
@@ -202,6 +205,7 @@ YOLOv8 Money Model
 * 대부분의 화폐 클래스에서 높은 정확도
 * 일부 **100원 / 50,000원** 간 소수 혼동 발생
 * background 클래스와의 혼동은 거의 없음
+<img width="507" height="437" alt="image" src="https://github.com/user-attachments/assets/f48cea2b-2193-4c01-959e-69395fb8cd36" />
 
 즉,
 실제 서비스 적용을 고려했을 때 **높은 수준의 탐지 성능과 안정성**을 확보했습니다.
